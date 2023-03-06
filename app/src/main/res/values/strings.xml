@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LegacyGIS</string>
+
+    <!-- This is the same as what was used for the OneTap test project (GISTest) -->
+    <string name="google_auth_web_client_id">478413495750-63b49v4lf3gg0thfp71rbfg6cb3e1n5s.apps.googleusercontent.com</string>
+
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_auth_app_id">201399502482169</string>
+    <string name="facebook_auth_client_token">f0d67180c858d273f7c48af8df06798a</string>
+</resources>
